@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  margin: 8px;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-weight: bold;
+}
+button:hover {
+  background-color: green;
+  color: white;
+}
+.card {
+  border: 1px solid green;
+  margin: 5px;
+  border-radius: 10px;
+}
